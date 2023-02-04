@@ -1,0 +1,237 @@
+{
+  "movies": [
+    {
+      "id": "db4938a3-485f-4fa3-b9fd-f4e1ad6ef784",
+      "title": "Yüzüklerin Efendisi:Yüzük Kardeşliği",
+      "orginalName": "The Lord of the Rings: The Fellowship of the Ring",
+      "description": "Çok eski çağlarda Elf demircileri, güç yüzüklerini sihirli ustalıklarıyla yapmış ve Karanlıkların Efendisi Sauron, bu yüzükleri işleyip kendi gücüyle doldurmuştur.",
+      "category": "Macera",
+      "image": "https://img01.imgsinemalar.com/images/afis_buyuk/y/yuzuklerin-efendisi-yuzuk-kardesligi-1660915274.jpg",
+      "rating": "8.8",
+      "year": "2003",
+      "addDate": 1,
+      "link": "",
+      "comments": [
+        {
+          "author": "ahmetbenan",
+          "comment": "deneme 123"
+        }
+      ]
+    },
+    {
+      "id": "755d4a56-211f-4ddb-a79f-253f242bfade",
+      "title": "Piyanist",
+      "orginalName": "The Pianist",
+      "description": "Wladyslaw Szpilman, savaş patlak verdiğinde 27 yaşındaydı ve Polonya'nın geleceği en parlak konser piyanistlerinden biriydi.Luftwaffe'de radyo istasyonu...",
+      "category": "Dram",
+      "image": "https://img01.imgsinemalar.com/images/afis_buyuk/p/piyanist-1660915262.jpg",
+      "rating": "8.2",
+      "year": "2002",
+      "addDate": 2,
+      "link": "",
+      "comments": [
+        {
+          "author": "ahmetbenan",
+          "comment": "harikaaa"
+        }
+      ]
+    },
+    {
+      "id": "9f5956b3-a18f-417f-9373-3c4c07b41793",
+      "title": "Karayip Korsanları:Siyah İncinin Laneti",
+      "orginalName": "Pirates Of The Caribbean: The Curse Of The Black Pearl",
+      "description": "Üçkağıtçı fakat bir o kadar da sevimli Kaptan Jack Sparrow’un korsanlık yaşamı...",
+      "category": "Komedi",
+      "image": "https://img04.imgsinemalar.com/images/afis_buyuk/k/karayip-korsanlari-siyah-incinin-laneti-1660915231.jpg",
+      "rating": "8.3",
+      "year": "2003",
+      "addDate": 3,
+      "link": "",
+      "comments": []
+    },
+    {
+      "id": "2561f04a-1cbf-415f-9fec-9e4ac0e0c80d",
+      "title": "Zindan Adası",
+      "orginalName": "Shutter Island",
+      "description": "Bir adada suç işlemiş akıl hastalarının tedavi edildiği hastanedeki bir katilin esrarengiz şekilde kayboluşunu soruşturmakla görevlendirilen...",
+      "image": "https://img02.imgsinemalar.com/images/afis_buyuk/z/zindan-adasi-1660915926.jpg",
+      "category": "Korku",
+      "rating": "7.9",
+      "year": "2010",
+      "addDate": 4,
+      "link": "",
+      "comments": [
+        {
+          "author": "ahmetbenan",
+          "comment": "123123"
+        }
+      ]
+    },
+    {
+      "id": "42365d7c-2de6-4ca6-bc79-172ce7309619",
+      "title": "Schindler'in Listesi",
+      "orginalName": "Schindler's List",
+      "description": "2. Dünya Savaşı yıllarının Nazi Almanya'sında girişimci bir Alman Oskar Schindler, askeriye için metal kaplar üreten bir fabrika kurar ve bu iş için sermayeyi ve iş gücünü Yahudiler üzerinden sağlar.",
+      "image": "https://img02.imgsinemalar.com/images/afis_buyuk/s/schindlerin-listesi-1660915209.jpg",
+      "category": "Dram",
+      "rating": "8.1",
+      "year": "1993",
+      "addDate": 5,
+      "link": "",
+      "comments": []
+    },
+    {
+      "id": "70bcc26a-04f7-4685-b275-b7fd2a9359e6",
+      "title": "Başlangıç",
+      "description": "Dom Cobb (Leonardo DiCaprio) çok yetenekli bir hırsızdır. Uzmanlık alanı, zihnin en savunmasız olduğu rüya görme anında, bilinçaltının derinliklerindeki değerli sırları çekip çıkarmak ve onları çalmaktır. Cobb’un bu ender mahareti, onu kurumsal casusluğun tehlikeli yeni dünyasında aranan bir oyuncu yapmıştır.",
+      "category": "Macera",
+      "rating": "8.9",
+      "year": "2010",
+      "orginalName": "Inception",
+      "image": "https://img03.imgsinemalar.com/images/afis_buyuk/b/baslangic-1660924244.jpg",
+      "addDate": 6,
+      "link": "",
+      "comments": []
+    },
+    {
+      "id": "79807b16-a14c-4383-b6dd-5a1fc537c846",
+      "title": "Esaretin Bedeli",
+      "description": "Genç ve başarılı bir bankacı olan Andy Dufresne, karısını ve onun sevgilisini öldürmek suçundan ömür boyu hapse mahkum edilir ve Shawshank hapishanesine gönderilir. Burada başta Red olmak üzere yeni arkadaşlar edinir. Hapishane yaşamını uyum sağlamaya çalışırken diğer yandan da bilgisi ve kültürüyle etrafındaki insanları etkilemeyi başaracaktır.",
+      "category": "Dram",
+      "rating": "9.1",
+      "year": "1994",
+      "orginalName": "The Shawshank Redemption",
+      "image": "https://img03.imgsinemalar.com/images/afis_buyuk/e/esaretin-bedeli-1660926263.jpg",
+      "addDate": 7,
+      "link": "",
+      "comments": [
+        {
+          "author": "ahmetbenan",
+          "comment": "Çok harika bir film"
+        }
+      ]
+    },
+    {
+      "id": "ec7ecf00-bf55-4309-9cff-40db811dd860",
+      "title": "Dövüş Kulübü",
+      "description": "Oregon Üniversitesinde yüksek lisansını yapan Chuck Palanhiuk'un uzak olmayan bir gelecekte geçen ve kafası karışık genç bir erkeği konu alan romanından yola çıkılarak çekilen Fight Club'da filmi anlatan, ünlü bir otomobil firmasında iyi bir işe sahiptir. Tek düze yaşamı kronik uykusuzluk sorunuyla çekilmez bir hale gelmiştir. Ailesi ve yakın bir arkadaşı olmayan Jack doktorunun tavsiyesi üzerine kanserli hastaların terapi grubuna katılır. Bu toplantılar esnasında Marla'yla tanışır o da genç adam gibi hasta olmadığı halde grubun toplantılarına katılmaktadır. Jack'in ve Marla'nın çabaları tüketici kültürünün anlamsızlığına karşı bir duruştur adeta kariyer sahibi ama yanlız insanların bir tepkisi. Jack'ın jenerasyonu ölü bir jenerasyondur. Bir yolculuk sonrası evinin yanmış olduğunu gördüğünde arayabileceği tek kişinin yolculuk sırasında tanıştığı sabun satıcısı Tyler Durden olmasıda adeta bunun bir kanıtıdır. İçilen birkaç biranın ardından park yerinde Tyler, kahramanımızı kendine vurması için kışırtacaktır. Aralarında başlayan bu kavga Jack'in hayatını değiştirecektir. Bir süre sonra Jack Tyler'ın yanına taşınır. Tyler'ın liderliğinde bir dövüş kulübünün kuruluşuyla bu kulübde sayıları elliyi aşmamak kaydıyla genç erkekler birbirleriyle dövüşmeye başlayacaklardır. Kısa sürede popüler hale gelen kulüp ve Tyler Durden hızlı bir şekilde bu ölü jenerasyonun mesihi haline gelir.",
+      "category": "Dram",
+      "rating": "8.8",
+      "year": "1999",
+      "orginalName": "Fight Club",
+      "image": "https://img02.imgsinemalar.com/images/afis_buyuk/d/dovus-kulubu-1660915260.jpg",
+      "addDate": 8,
+      "link": "",
+      "comments": []
+    },
+    {
+      "id": "2a80cc0f-b616-4683-8ce6-e89cc2a010d1",
+      "title": "Sarmaşık",
+      "description": "Afrika'ya gitmekte olan bir geminin sahibi armatör iflas eder ve o sırada gemisindeki mürettebattan 6 kişi gemide kalmak zorunda kalır. Zira deniz hukuku gereği gemide kalmak zorundadırlar ve hiçbir yere kıpırdayamazlar. 5 gemici ve bir de kaptandan oluşan mürettebat bu huzursuz bekleyişte hiyerarşik güç mücadelesine girecektir. Gişe Memuru filmiyle dikkatleri çeken Tolga Karaçelik'in ikinci bağımsız projesinde senaryo da kendisine ait. Görüntü yönetmenliğini Gökhan Tiryaki üstlenirken, müzikler de Ahmet Kenan Bilgiç imzası var. 2015 yılının en başarılı Türk filmlerinden biri olan Sarmaşık, 52. Uluslararası Antalya Film Festivali'nde En İyi Film, En İyi Yönetmen, En İyi Senaryo ve En İyi Erkek Oyuncu (Nadir Sarıbacak) ödüllerinin sahibi oldu.",
+      "category": "Dram",
+      "rating": "8.1",
+      "year": "2015",
+      "orginalName": "Sarmaşık",
+      "image": "https://img05.imgsinemalar.com/images/afis_buyuk/s/sarmasik-1660924331.jpg",
+      "addDate": 9,
+      "link": "",
+      "comments": [
+        {
+          "author": "ahmetbenan",
+          "comment": "deneme"
+        }
+      ]
+    },
+    {
+      "id": "7eef1436-dcf7-47ed-bc96-723c27fdf33a",
+      "title": "Forrest Gump",
+      "description": "Forrest Gump, zeka seviyesi 75 olan bir erkeğin hayatını ele alıyor. Zeka seviyesi nedeni ile devlet okullarına girmekte bile zorlanan Forrest Gump  zamanla akla mantığa uymayan başarılara imza atıyor. Her ne kadar zeka seviyesi düşük olsa da fiziksel olarak son derece sağlam olan Forrest Gump, zamanla gelişen olaylar zincirinde bizi hayal edemeyeceğimiz bir dünyaya götürüyor.",
+      "category": "Macera",
+      "rating": "8.9",
+      "year": "1994",
+      "orginalName": "Forrest Gump",
+      "image": "https://img04.imgsinemalar.com/images/afis_buyuk/f/forrest-gump-1660915302.jpg",
+      "addDate": 1669468460138,
+      "link": "",
+      "comments": [
+        {
+          "author": "deniz",
+          "comment": "Deneme yorum 123"
+        }
+      ]
+    },
+    {
+      "id": "491ad82b-7ee6-4293-844f-d10f399fb9b4",
+      "title": "Bir Zamanlar Anadolu'da",
+      "description": "Kasabalarda hayat, bozkırın ortasında sürdürülen yolculuklara benzer. Her tepenin ardında \"yeni ve farklı bir şey\" çıkacakmış duygusu, ama her zaman birbirine benzeyen, incelen, kıvrılan, kaybolan veya uzayan tekdüze yollar...",
+      "category": "Dram",
+      "rating": "7.7",
+      "year": "2011",
+      "orginalName": "Bir Zamanlar Anadolu'da",
+      "image": "https://img01.imgsinemalar.com/images/afis_buyuk/b/bir-zamanlar-anadoluda-1660921006.jpg",
+      "addDate": 1669468831654,
+      "link": "",
+      "comments": []
+    },
+    {
+      "id": "c3848fee-2a32-46ef-87bb-440dc78f0c79",
+      "title": "Cesur Yürek",
+      "description": "13. yüzyılda İngilizler, İskoçlar üzerinde egemenlik kurmuştur. İngiliz soyluları, yeni evli İskoç kadınlarıyla ilk geceyi geçirme hakkına sahiptir. Çocukken ailesini İskoçya uğruna kaybeden William Wallace'ın karısı da İngiliz birlikleri tarafından öldürüldüğü zaman, onun intikam arayışı kısa zamanda ülkesinin özgürlüğü için amansız bir savaşa dönüşür.",
+      "category": "Savaş",
+      "rating": "8.8",
+      "year": "1995",
+      "orginalName": "Braveheart",
+      "image": "https://img04.imgsinemalar.com/images/afis_buyuk/c/cesur-yurek-1660915278.jpg",
+      "addDate": 1669470041636,
+      "link": "",
+      "comments": [
+        {
+          "author": "ahmetbenan",
+          "comment": "Çok güzel bir film."
+        }
+      ]
+    },
+    {
+      "id": "82cc287e-7204-491b-ae13-d6be09bdd9c1",
+      "title": "Pardon",
+      "description": "İbrahim, Aydın ve Muzaffer çok yakın 3 arkadaştır. İbrahim, resmi üniforma görmekten çok rahatsız olan biridir. İbrahim, bir gün resmi üniformalı birisiyle karşılaşınca hemen oradan kaçmak ister ancak durumdan şüphelenen polis, 3 arkadaşı da içeri alır. Suçsuz yere 6,5 yıl hapis yatan arkadaşlar sonunda dışarı çıkmayı başarır.",
+      "category": "Komedi",
+      "rating": "8.1",
+      "year": "2005",
+      "orginalName": "Pardon",
+      "image": "https://img05.imgsinemalar.com/images/afis_buyuk/p/pardon-1660915215.jpg",
+      "addDate": 1669802416238,
+      "link": "https://www.youtube.com/embed/kggn0jLsIvA",
+      "comments": []
+    },
+    {
+      "id": "ebd05146-00d5-4683-904b-cb4ffad37ea8",
+      "title": "Kolpaçino",
+      "description": "Bir aksiyon-komedi filmi olan Kolpaçino, birbirine kenetlenmiş 7 kişinin bir günde başına gelenleri anlatıyor. Kolpaçino: Bir Şehir Efsanesi, temposu ve kurgusuyla şaşırtıcı bir hikaye.",
+      "category": "Komedi",
+      "rating": "7.4",
+      "year": "2009",
+      "orginalName": "Kolpaçino",
+      "image": "https://img05.imgsinemalar.com/images/afis_buyuk/k/kolpacino-1660916619.jpg",
+      "link": "https://www.youtube.com/embed/RpSCIz6B-R0",
+      "comments": [],
+      "addDate": 1669802873886
+    }
+  ],
+  "users": [
+    {
+      "id": "00328765-c70e-41e8-8741-4438cd3f992b",
+      "userName": "ahmetbenan",
+      "password": "123456",
+      "email": "ahmetbenan@yandex.com",
+      "isAdmin": true
+    },
+    {
+      "id": "00322765-c70e-41e8-8731-4438cd3c992b",
+      "userName": "deniz",
+      "password": "123123",
+      "email": "deniz@yandex.com",
+      "isAdmin": false
+    }
+  ]
+}
