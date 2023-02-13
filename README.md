@@ -2,7 +2,7 @@
 
 İlk **React.js** öğrenilerimle ve **Context Api**'yi ilk kez deneyimleyerek geliştirdiğim bir projeydi. Responsive tasarım için çaba sarfedilmemiştir, sadece ilgili framework ile yeni öğreniler hedeflenmiştir.
 
-###Not: Projede gerçek bir veritabanı kullanılmamıştır, **json-server** paketi kullanılarak fake bir api oluşturulmuş ve projede bu api kullanılmıştır.
+Not: Projede gerçek bir veritabanı kullanılmamıştır, **json-server** paketi kullanılarak fake bir api oluşturulmuş ve projede bu api kullanılmıştır.
 
 
 ### Projede Hedeflenen Özellikler
